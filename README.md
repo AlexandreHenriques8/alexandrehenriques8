@@ -17,7 +17,7 @@
 
   <div>
   <a href="[https://github.com/AlexandreHenriques8](https://github.com/AlexandreHenriques8)"> 
-  <img height="170em" width="42%" src="https://github-readme-stats.vercel.app/api?username=AlexandreHenriques8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="42%" src="https://github-readme-stats.vercel.app/api?username=AlexandreHenriques8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreHenriques8&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   ##
