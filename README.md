@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alexandre Henriques!
 
-- 🔭 Atualmente estudo Python
-- 🌱 Tenho 22 anos
+- 🔭 Atualmente estudo RPA
+- 🌱 Tenho 23 anos
 - 👍 Busco minha primeira oportunidade
 - 💬 Entre em contato através do email: ax.henriquess@gmail.com
 
